@@ -1,2 +1,0 @@
-Algoritmo: Sequência de passos finitos projetados para resolver um problema ou realizar uma tarefa
-Lógica de Programação: É a habilidade de pensar lógicamente para resolver um determinado problema/tarefa
