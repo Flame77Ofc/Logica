@@ -1,0 +1,12 @@
+Alguns conceitos básicos da programação que precisam ser esclarecidos:
+1. O que são Algoritmos?
+São sequências de passos finitos para 
+resolver um problema ou realizar uma tarefa
+
+2. O que são algoritmos Computacionais?
+É um conjunto de instruções passo a passo que um 
+computador  deve seguir para realizar uma tarefa específica
+
+3. Linguagens de Programação
+É uma linguagem que humanos usam para
+se comunicar com os computadores

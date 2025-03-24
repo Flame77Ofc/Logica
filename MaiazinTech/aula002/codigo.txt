@@ -1,0 +1,33 @@
+O que são variáveis?
+variáveis são locais da memória do computador
+onde pode ser guardado algum dado dentro daquele local.
+
+Sintaxe de uma variável
+nomeDaVariavel = Tipo
+
+Mas quais são os tipos de dados?
+    Números
+        Inteiros - Números positivos e negativos que NÃO TEM casas decimais: 
+            21, -534, 766, -32, 76
+        Flutuantes - Números positivos e negativos que TEM casas decimais:
+            56.43, 1.5, -512.78, 32.67855, 76.70, 3.14
+    Textos ou Caracteres
+        Strings - textos que são obrigatóriamente cercados por aspas simples '' ou duplas "":
+            'Um exemplo de String', "Aprendendo Lógica de Programação", "Números também: 345"
+    Lógicos
+        Booleanos - representam true (verdadeiro) e false (falso), desligado e ligado, sim e não. Existem apenas dois únicos valores:
+            true, false
+
+
+
+Algoritmo "Variaveis"
+Início
+// Declarando uma variável: Vendo a sintaxe com mais clareza
+nomeVariavel = "Dados"
+
+// Utilizando variáveis de verdade
+nome = "Lucas" // Uma String
+idade = 17 // Um valor númerico do tipo inteiro
+altura = 1.78 // Um valor númerico do tipo flutuante
+luzLigada = false // Um valor Booleano, que significa que a luz está desligada
+Fim

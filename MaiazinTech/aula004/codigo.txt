@@ -1,0 +1,10 @@
+Comando de entrada
+É um campo que permite o usuário preencher o que você quiser. Exemplo: nome, idade, altura, etc... Isso é bom pois permite a interação com um usuário
+
+Algoritmo "Comando_Entrada"
+Início
+nome = "Qual é seu nome? "
+digite(nome)
+
+
+Fim
