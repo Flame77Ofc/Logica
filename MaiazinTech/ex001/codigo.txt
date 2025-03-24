@@ -1,2 +1,11 @@
 Escreva um programa que solicite ao usuario
-seu nome 
+seu nome e depois mostre uma mensagem de saudação
+usando o nome fornecido
+
+
+Algoritmo "Saudacao"
+Início
+nome = 'Qual é seu nome?'
+digite("Olá, " + nome)
+
+Fim

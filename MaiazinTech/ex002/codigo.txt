@@ -1,0 +1,14 @@
+Escreva um programa que solicite ao usuário
+dois números e mostra a soma dos dois números
+
+Algoritmo "soma"
+Início
+num1 = escreva("Digite o primeiro número: ")
+digite(num1)
+num2 = escreva("Digite o segundo número: ")
+digite(num2)
+
+soma = num1 + num2
+
+escreva("A soma do número " + num1 + "+" + num2 + " é: " + soma)
+Fim
