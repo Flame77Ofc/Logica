@@ -1,2 +1,2 @@
 # Logica
-Treinamento e cursos de lógica de programação
+Treinamento e cursos de lógica de 

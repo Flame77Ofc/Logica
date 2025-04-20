@@ -1,1 +1,0 @@
-Aviso: Todos os arquivos.txt foram criados palavras-chaves por mim mesmo, então isso não é um pseudocódigo. É apenas uma maneira de representação que eu mesmo criei pra melhorar minha lógica e porque eu não quis aprender pseudocódigo.
