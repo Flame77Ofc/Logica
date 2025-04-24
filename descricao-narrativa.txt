@@ -1,0 +1,54 @@
+1) Crie uma seqüência lógica para tomar banho:
+
+2) Faça um algoritmo para somar dois números e multiplicar o resultado pelo primeiro número
+
+3) Descreva com detalhes a seqüência lógica para Trocar um pneu de um carro.
+
+4) Faça um algoritmo para trocar uma lâmpada. Descreva com detalhes:
+
+5) Crie um algoritmo para preparar um copo de suco natural. Descreva cada etapa.**
+
+**6) Descreva a sequência lógica necessária para escovar os dentes corretamente.**
+
+---
+
+**7) Faça um algoritmo para organizar uma mochila escolar com todos os materiais necessários.**
+
+---
+
+**8) Crie um passo a passo lógico para preparar um sanduíche simples.**
+
+---
+
+**9) Elabore um algoritmo para regar as plantas de uma casa, considerando plantas internas e externas.**
+
+---
+
+**10) Descreva detalhadamente a sequência lógica para lavar a louça.**
+
+---
+
+**11) Faça um algoritmo para conectar um computador à internet usando Wi-Fi.**
+
+---
+
+**12) Crie um passo a passo lógico para enviar um e-mail com um anexo.**
+
+---
+
+**13) Descreva a lógica envolvida em atravessar a rua com segurança.**
+
+---
+
+**14) Crie um algoritmo para ligar uma televisão e mudar para o canal desejado.**
+
+---
+
+**15) Elabore um passo a passo lógico para fazer um bolo simples (sem usar batedeira elétrica).**
+
+
+1. Crie uma seqüência lógica para preparar um café. Não vale com cafeteira;
+2. Crie uma seqüência lógica para escovar os dentes.
+3. Crie uma seqüência lógica para somar três números e multiplicar o resultado pelo primeiro dos três.
+4. Crie uma seqüência lógica para soma de três valores.
+5. Crie uma seqüência lógica para tomar um banho.
