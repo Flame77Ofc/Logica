@@ -1,8 +1,0 @@
-1. Crie uma seqüência lógica para tomar banho:
-2. Faça um algoritmo para trocar uma lâmpada. Descreva com detalhes:
-3. Crie um algoritmo para preparar um copo de suco natural. Descreva cada etapa.**
-4. Descreva a sequência lógica necessária para escovar os dentes corretamente.**
-5. Faça um algoritmo para organizar uma mochila escolar com todos os materiais necessários.**
-6. Crie um passo a passo lógico para preparar um sanduíche simples.**
-7. Descreva a lógica envolvida em atravessar a rua com segurança.**
-8. Crie uma seqüência lógica para preparar um café. Não vale com cafeteira;
